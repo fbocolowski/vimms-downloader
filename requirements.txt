@@ -2,4 +2,3 @@ requests
 beautifulsoup4
 tqdm
 py7zr
-zipfile
