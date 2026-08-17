@@ -1,3 +1,5 @@
-finished/*
-downloading/*
+out/*
 links.txt
+.venv/
+__pycache__/
+*.pyc
